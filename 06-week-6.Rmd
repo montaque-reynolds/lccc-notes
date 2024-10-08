@@ -1,31 +1,63 @@
-# Sharing your book
+# Deontology
 
-## Publishing
+AC: right action is the one that produces the most good.
 
-HTML books can be published online, see: https://bookdown.org/yihui/bookdown/publishing.html
+Who's good?
 
-## 404 pages
+Objective v. Subjective Consequentialism
 
-By default, users will be directed to a 404 page if they try to access a webpage that cannot be found. If you'd like to customize your 404 page instead of using the default, you may add either a `_404.Rmd` or `_404.md` file to your project root and use code and/or Markdown syntax.
+> The view that whenever one faces a choice of actions, one should attmpt to determinie which act of those available would most promote the good, and should then try to act accordingly. One is behaving as subjective consequentialism requires . . . to the extent that one uses and follolws a distinctively consequentialist mode of decision making, consciously aiming at the overall good and conscientiously using the best available information with the greatest possible rigor. [Railton 1988, p. 113]
 
-## Metadata for sharing
+D: Not producing the most good, rather . . .
 
-Bookdown HTML books will provide HTML metadata for social sharing on platforms like Twitter, Facebook, and LinkedIn, using information you provide in the `index.Rmd` YAML. To setup, set the `url` for your book and the path to your `cover-image` file. Your book's `title` and `description` are also used.
+## Some Basic Features
+
+### Constraints
+
+What are some ways that we are contrained by deontological principles?
+
+* Must not harm, lie, kill, torture under any circumstances.
+
+Therefore, we are constrained in what we can do.
+
+### Duties of Special Relationships
+
+Sometimes we have special committments to others.
+
+* Child
+* Parent
+* Spouse
+* Friend
+
+Our actions which respect to these relationships are constrained. Even if we could maximize the good, for instance, play video games instead of tucking our children into bed.
 
 
+### Options
 
-This `gitbook` uses the same social sharing data across all chapters in your book- all links shared will look the same.
+### Agent-Relative and Agent-Neutral Theories
 
-Specify your book's source repository on GitHub using the `edit` key under the configuration options in the `_output.yml` file, which allows users to suggest an edit by linking to a chapter's source file. 
+## Non-Deontological Theories
 
-Read more about the features of this output format here:
+### Consequentialisms
 
-https://pkgs.rstudio.com/bookdown/reference/gitbook.html
+### Nonconsequentialist Nondeontological Theories
 
-Or use:
+## Rossian Deontology
 
-```{r eval=FALSE}
-?bookdown::gitbook
-```
+## Particularism
 
+## Alternative Foundations for Deontology
 
+### Kant
+
+### Scanlon
+
+## Defending Deontology
+
+### Special Relationships
+
+### Options
+
+### Constraints
+
+### Virtue Ethics

@@ -1,7 +1,5 @@
 fig:nice-fig
 tab:nice-tab
-eq:binom
-thm:tri
 about
 usage
 render-book
@@ -27,11 +25,12 @@ primary-source-readings
 review-exercises
 first-he-takes-issue-with-what-he-calls-conflict-betweens-instinct-of-self-preservation-and-selfishness-and-our-more-pro-social-emotions.
 what-happens-when-we-suppress-our-initial-pro-social-inclinations
-blocks
-equations
-theorems-and-proofs
-callout-blocks
+utilitarianism
+good-and-right
+what-is-good
+preference-satisfaction
 sharing-your-book
 publishing
 pages
 metadata-for-sharing
+url-your-book-url-like-httpsbookdown.orgyihuibookdown
